@@ -1,2 +1,3 @@
-# C-Projects
-Small, medium and Large Projects Developed in C Languages By Me [Full Source Code + Output]
+# C-Programs
+
+Small & medium Programs Developed in C Languages.
